@@ -708,4 +708,7 @@ html {
       .owl-theme .owl-nav [class*="owl-"] {
         height: 92%;
       }
+      .social_icon{
+          display: none;
+      }
 }
