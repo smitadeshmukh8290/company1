@@ -640,6 +640,7 @@ html {
     color: #fff;
     padding-left: 10px;
     font-size: 18px;
+    display:block;
 }
 
 .bg_footer {
