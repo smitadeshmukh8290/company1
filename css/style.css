@@ -708,4 +708,5 @@ html {
       .social_icon{
           display: none;
       }
+      .for_black{display: block;}
 }
