@@ -705,6 +705,7 @@ html {
           padding: 20px 20px;
           border-bottom: 1px solid gray;
       }
-      
-     
+      .owl-theme .owl-nav [class*="owl-"] {
+        height: 92%;
+      }
 }
